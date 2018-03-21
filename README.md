@@ -8,4 +8,4 @@ Sure that's basic task, but I tried to make it in my way to not see Internet exa
 
 Please let me know if you will find my mistakes, especially in OOP and Java approaches.
 
-Updates will come: deep learning, gui, possibility to set your ships in your way (come with gui, now it has no sence), and of course horizontal ship's orientation.
+Updates will come: deep learning, gui, possibility to set your ships in your way (come with gui, now it has no sence), and of course vertical ship's orientation.
