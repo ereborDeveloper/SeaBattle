@@ -1,5 +1,5 @@
 # Sea battle Java
-This is original 10 x 10 console sea batle game. Maybe code helps you.
+This is original 10 x 10 console sea battle game. Maybe code helps you.
 Now here is no GUI, but you can play with computer named Vasiliy. Try to destroy Vasiliy ships faster then Vasiliy destroy yours.
 Believe me, it's easy, because Vasiliy is stupid a lot.
 You can see AI file, it's nothing special, just usual logic for sea battle, without combinations or strategy.
